@@ -2,3 +2,9 @@ name: change_lore
 version: '1.0-SNAPSHOT'
 main: com.joonseo.change_lore.Change_lore
 api-version: '1.20'
+
+
+commands:
+    change:
+        description: 이름을 바꾼다.
+        usage: /change <아이템이름>
