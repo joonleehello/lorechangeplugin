@@ -1,0 +1,4 @@
+name: change_lore
+version: '${project.version}'
+main: com.joonseo.change_lore.Change_lore
+api-version: '1.20'
